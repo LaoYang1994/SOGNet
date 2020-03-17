@@ -1,0 +1,12 @@
+.vscode
+data
+output
+model
+*/panopticapi
+__pycache__
+build
+
+*.py[cod]
+*.so
+*.json
+
