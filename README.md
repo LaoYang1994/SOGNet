@@ -1,3 +1,6 @@
+# Attention!!!
+We have made the [detectron2-based code](https://github.com/LaoYang1994/SOGNet-Dev) public. But there are still some bugs in it. We will fix them as soon as possible.
+
 # SOGNet
 This repository is for [SOGNet: Scene Overlap Graph Network for Panoptic Segmentation](https://arxiv.org/abs/1911.07527) which has been accepted by AAAI2020 and won the Innovation Award in COCO 2019 challenge,
 
